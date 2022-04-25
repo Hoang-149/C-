@@ -1,0 +1,8 @@
+D:\C#\tinhdahinh\C-\connguoi\connguoi\bin\Debug\connguoi.exe.config
+D:\C#\tinhdahinh\C-\connguoi\connguoi\bin\Debug\connguoi.exe
+D:\C#\tinhdahinh\C-\connguoi\connguoi\bin\Debug\connguoi.pdb
+D:\C#\tinhdahinh\C-\connguoi\connguoi\obj\Debug\connguoi.csproj.AssemblyReference.cache
+D:\C#\tinhdahinh\C-\connguoi\connguoi\obj\Debug\connguoi.csproj.SuggestedBindingRedirects.cache
+D:\C#\tinhdahinh\C-\connguoi\connguoi\obj\Debug\connguoi.csproj.CoreCompileInputs.cache
+D:\C#\tinhdahinh\C-\connguoi\connguoi\obj\Debug\connguoi.exe
+D:\C#\tinhdahinh\C-\connguoi\connguoi\obj\Debug\connguoi.pdb
