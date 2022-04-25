@@ -1,0 +1,8 @@
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\bin\Debug\baitapcoban.exe.config
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\bin\Debug\baitapcoban.exe
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\bin\Debug\baitapcoban.pdb
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\obj\Debug\baitapcoban.csproj.AssemblyReference.cache
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\obj\Debug\baitapcoban.csproj.SuggestedBindingRedirects.cache
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\obj\Debug\baitapcoban.csproj.CoreCompileInputs.cache
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\obj\Debug\baitapcoban.exe
+D:\C#\tinhdahinh\C-\baitapcoban\baitapcoban\obj\Debug\baitapcoban.pdb
